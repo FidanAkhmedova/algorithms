@@ -9,5 +9,6 @@
         Notebook.getArray(notebooks);
         Notebook.bubbleSortArray(notebooks);
         Notebook.getArray(notebooks);
+        System.out.println("/////");
     }
 }
