@@ -82,7 +82,7 @@ public class Notebook {
         System.out.println();
     }
     public void setMemory(int memory) {
-        //this.memory = memory;
+        this.memory = memory;
     }
 
     public int getMemory() {
